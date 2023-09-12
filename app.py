@@ -21,4 +21,5 @@ def fruit():
 
 
 if __name__ == "__main__":
+    print('About to lunch app!')
     app.run(host="0.0.0.0", port=8080, debug=True)
