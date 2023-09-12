@@ -1,3 +1,5 @@
+[![Python 3.8](https://github.com/faraz2023/flask-random-fruit/actions/workflows/main.yml/badge.svg)](https://github.com/faraz2023/flask-random-fruit/actions/workflows/main.yml)
+
 # flask-random-fruit
 A flask microservice for generating random fruit!
 Includes continuous integration.
